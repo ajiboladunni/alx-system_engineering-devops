@@ -1,2 +1,2 @@
-#!/bin/bash
-hello $USER=MyUser
+#!/bin/bashiecho 
+echo hello $USER=MyUser
